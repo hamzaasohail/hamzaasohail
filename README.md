@@ -42,16 +42,6 @@ Validated 30+ REST API endpoints including:
 
 ---
 
-## Recent Wins
-
-- 🎯 Executed 100+ manual test cases across multiple releases
-- 🐛 Identified 50+ critical defects before they reached production
-- ✅ Maintained 95%+ test pass rate consistently
-- 💳 Mastered Stripe payment testing (subscriptions, refunds, webhooks)
-- 📊 Built SQL skills to validate complex backend workflows
-- 🤝 Collaborated effectively with 5+ cross-functional teams
-
----
 
 ## My Approach to Testing
 
